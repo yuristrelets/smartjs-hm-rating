@@ -1,6 +1,6 @@
 export default {
   rating: {
-    initialUrl: 'http://rating.smartjs.academy/rating',
+    loadUrl: 'http://rating.smartjs.academy/rating'/* + '?hardMode'*/,
     updateUrl: 'ws://rating.smartjs.academy/rating'
   }
 }
